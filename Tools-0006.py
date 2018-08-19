@@ -9,11 +9,11 @@ def func():
     return product
 
 start = time.time()
-prod = func()
+res = func()
 end = time.time()
 
 print("start time: %d , end time: %d" %(start, end))
-print("The result is %d " % prod)
+print("The result is %d " % res)
 print("it  cost %s s for func running " %(end - start))
 print("it  cost %s s for func running " %(round((end - start),3)))
 
