@@ -30,3 +30,5 @@ print(format %(str(type(strDate)),str(strDate)))
 #add the date and time in file name
 fileName = fileName+'-'+strDate+'-'+str(round(t)%10000)
 print(format %(str(type(fileName)),str(fileName)))
+
+
