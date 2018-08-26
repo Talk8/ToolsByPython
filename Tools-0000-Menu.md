@@ -8,6 +8,7 @@
 - 5 [无重复文件名-带日期和时间戳](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0005.md)
 - 6 [计算程序运行时间](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0006.md)
 - 7 [自动转换文件路径](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0007.md)
+- 8 [在图片中添加文字](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0008.md)
 
 
 -----------------------------------------
