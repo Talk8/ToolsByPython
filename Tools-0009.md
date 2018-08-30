@@ -15,7 +15,7 @@ print(name)
 
 ``` python
 
-python code.py
+$ python code.py
   File "code.py", line 2
 SyntaxError: Non-ASCII character '\xe7' in file code.py on line 23,
 but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
@@ -23,7 +23,11 @@ but no encoding declared; see http://www.python.org/peps/pep-0263.html for detai
 ```
 
 > 解决方法就是在文件开关加入以下声明：
-> #coding=utf8
+
+``` python
+
+#coding=utf8
+```
 
 该声明告诉编译器源代码文件使用```utf-8```格式进行编码。
 
