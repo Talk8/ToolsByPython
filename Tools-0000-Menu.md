@@ -10,6 +10,7 @@
 - 7 [自动转换文件路径](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0007.md)
 - 8 [在图片中添加文字](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0008.md)
 - 9 [解决中文字符串错误](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0009.md)
+- 10[在图片上添加图片](https://github.com/Talk8/ToolsByPython/blob/master/Tools-0010.md)
 
 
 -----------------------------------------
