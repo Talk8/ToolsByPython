@@ -41,7 +41,7 @@ except IOError:
 
 > 下面是程序的运行结果,请参考：
 
-!(https://githubusercontent.com/Talk8/ToolsByPython/master/res/gt001.PNG?raw=true)
+![img](https://github.com/Talk8/ToolsByPython/blob/master/res/gt001.PNG)
 
 
 
