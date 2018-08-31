@@ -11,7 +11,7 @@ def addText(img,string):
     oriImg.show()
     oriImg.save(path)
 
-path = input("Please input the image file with path")
+path = input("Please input the image file with path: ")
 try:
     print("path: "+path)
     oriImg = Image.open(path)
