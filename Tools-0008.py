@@ -21,5 +21,4 @@ except IOError:
     newImg = Image.new('RGBA',(320,240),'white')
     newImg.save(path)
 
-
     
